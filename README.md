@@ -1,4 +1,4 @@
-## Demo iOS App
+# Demo iOS App
 
 ## How to make a basic iOS app in 20 minutes
 
